@@ -53,13 +53,13 @@
 - REST APIs, JWT Authentication
 
 ### 🔹 Database
-- MongoDB, MySQL,sSupabase
+- MongoDB, PostgreSQL, Supabase,Postg
 - Firebase
 
 ### 🔹 Tools & Platforms
 - Git, GitHub
 - Postman, Supabase
-- Firebase, Figma
+- Firebase, Canva
 - MongoDB Workbench, Docker
 
 ---
